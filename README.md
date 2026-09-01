@@ -31,4 +31,4 @@
 ```reboot```
 
 For More necessary codes that needed for Hosting, Join Our Discord Server !
-- https://discord.gg/Uu3XjjJS6h
+- [hyperNET LTD](https://discord.gg/d5MW4YAMsP)
