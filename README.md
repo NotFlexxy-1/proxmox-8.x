@@ -1,4 +1,4 @@
-# Proxmox VE ( P.VE ) Installation Commands
+# Proxmox VE ( P.V.E. ) Installation Commands
 - Update your system's package list and perform a full upgrade:
 ```apt update && apt full-upgrade -y```
 - Verify your hostname resolves to a non-loopback IP address.
